@@ -1,0 +1,14 @@
+{
+  "name": "flatstick-redmond",
+  "version": "0.1.0",
+  "description": "Figure out whether it's cheaper to go around or take the toll to Flatstick Redmond.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Andes",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
